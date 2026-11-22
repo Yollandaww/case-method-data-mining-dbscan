@@ -1,0 +1,21 @@
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Environment
+.env
+
+# Temporary files
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
